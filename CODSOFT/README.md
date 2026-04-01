@@ -1,6 +1,6 @@
 # CODSOFT Python Internship Projects
 
-This repository contains all the tasks completed during my Python Programming Internship at CodSoft.
+This repository showcase my work and projects completed during my Python Programming Internship at CodSoft.
 
 ## 📌 Internship Details
 - Domain: Python Programming
@@ -23,7 +23,7 @@ A command-line application to manage daily tasks.
 ---
 
 ### 2. Calculator
-A simple calculator that performs basic arithmetic operations.
+A python-based calculator that performs basic arithmetic operations.
 
 **Features:**
 - Addition
@@ -85,3 +85,5 @@ I am actively learning and building projects in Python and Data Analytics.
 ---
 
 ⭐ If you like this project, feel free to star the repository!
+
+I am passionate about learning Python and building projects to improve my programming skills and prepare for real-world opportunities.
