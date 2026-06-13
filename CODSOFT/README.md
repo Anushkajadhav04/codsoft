@@ -7,7 +7,7 @@ This repository showcase my work and projects completed during my Python Program
 - Organization: CodSoft
 - Duration: 1 Month
 
----
+
 
 ## 🚀 Projects Included
 
@@ -20,7 +20,7 @@ A command-line application to manage daily tasks.
 - Update tasks
 - Delete tasks
 
----
+
 
 ### 2. Calculator
 A python-based calculator that performs basic arithmetic operations.
