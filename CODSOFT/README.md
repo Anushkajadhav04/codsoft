@@ -31,7 +31,7 @@ A python-based calculator that performs basic arithmetic operations.
 - Multiplication
 - Division
 
----
+
 
 ### 3. Password Generator
 Generates strong and random passwords.
@@ -40,7 +40,7 @@ Generates strong and random passwords.
 - Custom password length
 - Uses letters, numbers, and symbols
 
----
+
 
 ### 4. Rock Paper Scissors Game
 A fun game where the user plays against the computer.
@@ -50,7 +50,7 @@ A fun game where the user plays against the computer.
 - Game result display
 - Multiple rounds
 
----
+
 
 ### 5. Contact Book
 A simple contact management system.
@@ -62,13 +62,13 @@ A simple contact management system.
 - Update contact
 - Delete contact
 
----
+
 
 ## 🛠️ Technologies Used
 - Python
 - Command Line Interface (CLI)
 
----
+
 
 ## ▶️ How to Run
 
@@ -77,12 +77,11 @@ A simple contact management system.
 3. Run any file:
    python filename.py
 
----
+
 
 ## 📢 Connect With Me
 I am actively learning and building projects in Python and Data Analytics.
 
----
 
 ⭐ If you like this project, feel free to star the repository!
 
